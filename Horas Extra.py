@@ -11,7 +11,7 @@ pagonormal = horstrab * Tarifa_Horstrab
 pagonormal = 8 * 200
 pagoextra = Horsextra * Tarifa_Horsextra
 pagoextra = Horsextra * 350
-pago_tot = pagoextra + pagonormal 
+pagotot = pagoextra + pagonormal 
 print ("pagotot")
 
 else: pagotot
