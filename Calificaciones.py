@@ -4,6 +4,6 @@ Calificacion1 = int (input ("NUMERO DE LA PRIMERA CALIFICACION"))
 Calificacion2 = int (input ("NUMERO DE LA SEGUNDA CALIFICACION"))
 Calificacion3 = int (input ("NUMERO DE LA TERCERA CALIFICACION3"))
 
-Prom = (Calificacion1 + Calificacion2 + Calificacion3) / 3 
+Promedio = (Calificacion1 + Calificacion2 + Calificacion3) / 3 
 
-print ("El promedio de las calificaciones es:", Prom) 
+print ("El promedio de las calificaciones es:", Promedio) 
